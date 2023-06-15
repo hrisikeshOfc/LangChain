@@ -1,5 +1,4 @@
-![image](![langchain_logo](https://github.com/hrisikesh-neogi/income-prediction/assets/104005791/b46b5095-bea3-4c4a-a3b4-50e83ce5dc07)
-)
+![image](https://github.com/hrisikesh-neogi/income-prediction/assets/104005791/b46b5095-bea3-4c4a-a3b4-50e83ce5dc07)
 
 
 ## What is LangChain
