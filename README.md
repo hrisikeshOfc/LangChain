@@ -1,4 +1,5 @@
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bualabs.com%2Farchives%2F4958%2Flangchain-the-secret-sauce-to-building-next-level-language-applications%2F&psig=AOvVaw1jUORw84lJRNGw0J0JbhuC&ust=1686918761549000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjrjKGkxf8CFQAAAAAdAAAAABAY)
+![image](![langchain_logo](https://github.com/hrisikesh-neogi/income-prediction/assets/104005791/b46b5095-bea3-4c4a-a3b4-50e83ce5dc07)
+)
 
 
 ## What is LangChain
